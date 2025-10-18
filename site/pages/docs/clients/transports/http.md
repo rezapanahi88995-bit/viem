@@ -1,4 +1,6 @@
-# HTTP Transport [A function to create a HTTP Transport for a Client]
+![Uploading 1000033112.png…]()
+# HTTP Transport [A function to create a HTTP Transport for a Client]![Uploading 1000038465.png…]()
+
 
 The `http` Transport connects to a JSON-RPC API via HTTP.
 
